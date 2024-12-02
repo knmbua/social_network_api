@@ -7,7 +7,7 @@ The Social Network API is a backend application that allows users to interact wi
 ## Installation
 Clone the repository:
 
-git clone [https://github.com/your-username/social_network_api.git](https://github.com/knmbua/social_network_api.git)
+git clone https://github.com/knmbua/social_network_api.git
 cd social_network_api
 
 npm install
