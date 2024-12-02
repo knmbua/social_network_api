@@ -37,7 +37,6 @@ router.delete('/users/:userId/friends/:friendId', deleteFriendFromUser);
 
 
 
-
 router.get('/thoughts', getAllThoughts); 
 
 router.get('/thoughts/:thoughtId', getSingleThoughtById);  
